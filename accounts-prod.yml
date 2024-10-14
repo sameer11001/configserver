@@ -1,0 +1,5 @@
+build:
+  name: accounts-prod
+  environment: prod
+
+build-version: 1.0.1

@@ -1,0 +1,3 @@
+build:
+  name : loans-prod
+  environment: prod
