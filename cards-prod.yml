@@ -1,3 +1,5 @@
 build:
   name : cards-prod
   environment: prod
+
+build-version: 1.0.1
