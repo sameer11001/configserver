@@ -1,3 +1,0 @@
-build:
-  name : cards-qa
-  environment: qa
